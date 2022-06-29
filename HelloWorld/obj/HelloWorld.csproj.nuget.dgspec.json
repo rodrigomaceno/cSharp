@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/g/github/csharp/HelloWorld/HelloWorld.csproj": {}
+    "C:\\Users\\g\\github\\csharp\\HelloWorld\\HelloWorld.csproj": {}
   },
   "projects": {
-    "/home/g/github/csharp/HelloWorld/HelloWorld.csproj": {
+    "C:\\Users\\g\\github\\csharp\\HelloWorld\\HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/g/github/csharp/HelloWorld/HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\g\\github\\csharp\\HelloWorld\\HelloWorld.csproj",
         "projectName": "HelloWorld",
-        "projectPath": "/home/g/github/csharp/HelloWorld/HelloWorld.csproj",
-        "packagesPath": "/home/g/.nuget/packages/",
-        "outputPath": "/home/g/github/csharp/HelloWorld/obj/",
+        "projectPath": "C:\\Users\\g\\github\\csharp\\HelloWorld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\g\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\g\\github\\csharp\\HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/g/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\g\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "E:\\environments\\dotnet-sdk-6.0.301-win-x64\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
